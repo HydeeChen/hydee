@@ -13,6 +13,7 @@
 		A2A34F952A5C08680049524B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2A34F932A5C08680049524B /* Main.storyboard */; };
 		A2A34F972A5C086A0049524B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2A34F962A5C086A0049524B /* Assets.xcassets */; };
 		A2A34F9A2A5C086A0049524B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2A34F982A5C086A0049524B /* LaunchScreen.storyboard */; };
+		A2A34FA22A5C0F6D0049524B /* HanyiSentySeaSpray.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2A34FA12A5C0F6D0049524B /* HanyiSentySeaSpray.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A2A34F962A5C086A0049524B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2A34F992A5C086A0049524B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2A34F9B2A5C086A0049524B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2A34FA12A5C0F6D0049524B /* HanyiSentySeaSpray.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = HanyiSentySeaSpray.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A2A34F962A5C086A0049524B /* Assets.xcassets */,
 				A2A34F982A5C086A0049524B /* LaunchScreen.storyboard */,
 				A2A34F9B2A5C086A0049524B /* Info.plist */,
+				A2A34FA12A5C0F6D0049524B /* HanyiSentySeaSpray.ttf */,
 			);
 			path = "五歲抬頭 宇宙介紹電子書";
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				A2A34F9A2A5C086A0049524B /* LaunchScreen.storyboard in Resources */,
 				A2A34F972A5C086A0049524B /* Assets.xcassets in Resources */,
+				A2A34FA22A5C0F6D0049524B /* HanyiSentySeaSpray.ttf in Resources */,
 				A2A34F952A5C08680049524B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
